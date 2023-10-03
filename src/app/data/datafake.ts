@@ -1,27 +1,27 @@
 export const dataFake = [
     {
-        "id": 1,
-        "photo":"aaaa",
-        "title":"saiu novo filme",
-        "description": "ola"
+        "id": "1",
+        "title":"Marvel anuncia lançamento de novo filme do Hoemem de Ferro",
+        "description": 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque justo tempus volutpat bibendum. Fusce non purus nisi. Cras a purus sed urna eleifend dapibus a a nunc. Quisque in bibendum mi. Integer elementum, quam at vestibulum iaculis, arcu purus lobortis turpis, a iaculis est mauris dignissim velit. Donec vehicula sem massa, at aliquam eros eleifend ac. Curabitur lobortis consequat diam fringilla rutrum. In nec elit varius, ultrices risus sit amet, pellentesque turpis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin tincidunt eros ligula, eu eleifend neque efficitur quis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris eleifend volutpat risus luctus facilisis. Pellentesque sollicitudin nulla a ipsum bibendum, sit amet malesuada lorem ultrices. Duis sit amet velit magna. Sed nibh massa, sollicitudin non faucibus ut, viverra vel leo. Nam vestibulum eros a ligula ultrices, nec fermentum magna pharetra.        Sed efficitur eget neque ac auctor. Nullam at placerat ipsum. Suspendisse rutrum sollicitudin ultricies. Nulla quis nibh lectus. Mauris odio elit, vehicula id nibh ut, pulvinar rhoncus neque. Proin vel nulla non odio sollicitudin semper sed vel neque. Nam nec dui a odio eleifend eleifend at ut odio. Vivamus nec bibendum mi, eu placerat lacus. Proin quis congue nibh. Nullam auctor mauris a lacus facilisis aliquam. Aenean tristique iaculis lorem et semper. Sed dignissim elit quis purus ullamcorper tincidunt. Nam pharetra sagittis odio. Phasellus sapien dui, scelerisque non vestibulum eu, posuere ut mi.',
+        "photoCover": "https://conteudo.imguol.com.br/c/entretenimento/96/2020/08/07/iron-man-1596813808466_v2_900x506.jpg"
     },
     {
-        "id": 2,
-        "photo":"aaaa",
-        "title":"saiu novo filme",
-        "description": "ola"
+        "id": "2",
+        "title":"Nova temporada de O Mandaloriano na Disney+",
+        "description": 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque justo tempus volutpat bibendum. Fusce non purus nisi. Cras a purus sed urna eleifend dapibus a a nunc. Quisque in bibendum mi. Integer elementum, quam at vestibulum iaculis, arcu purus lobortis turpis, a iaculis est mauris dignissim velit. Donec vehicula sem massa, at aliquam eros eleifend ac. Curabitur lobortis consequat diam fringilla rutrum. In nec elit varius, ultrices risus sit amet, pellentesque turpis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin tincidunt eros ligula, eu eleifend neque efficitur quis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris eleifend volutpat risus luctus facilisis. Pellentesque sollicitudin nulla a ipsum bibendum, sit amet malesuada lorem ultrices. Duis sit amet velit magna. Sed nibh massa, sollicitudin non faucibus ut, viverra vel leo. Nam vestibulum eros a ligula ultrices, nec fermentum magna pharetra.        Sed efficitur eget neque ac auctor. Nullam at placerat ipsum. Suspendisse rutrum sollicitudin ultricies. Nulla quis nibh lectus. Mauris odio elit, vehicula id nibh ut, pulvinar rhoncus neque. Proin vel nulla non odio sollicitudin semper sed vel neque. Nam nec dui a odio eleifend eleifend at ut odio. Vivamus nec bibendum mi, eu placerat lacus. Proin quis congue nibh. Nullam auctor mauris a lacus facilisis aliquam. Aenean tristique iaculis lorem et semper. Sed dignissim elit quis purus ullamcorper tincidunt. Nam pharetra sagittis odio. Phasellus sapien dui, scelerisque non vestibulum eu, posuere ut mi.',
+        "photoCover": "https://cdn.maioresemelhores.com/imagens/melhores-series-da-disney-plus-og.jpg"
     },
     {
-        "id": 3,
-        "photo":"aaaa",
-        "title":"saiu novo filme",
-        "description": "ola"
+        "id": "3",
+        "title":"Curiosidades pouco conhecidas sobre Hulk",
+        "description": 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque justo tempus volutpat bibendum. Fusce non purus nisi. Cras a purus sed urna eleifend dapibus a a nunc. Quisque in bibendum mi. Integer elementum, quam at vestibulum iaculis, arcu purus lobortis turpis, a iaculis est mauris dignissim velit. Donec vehicula sem massa, at aliquam eros eleifend ac. Curabitur lobortis consequat diam fringilla rutrum. In nec elit varius, ultrices risus sit amet, pellentesque turpis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin tincidunt eros ligula, eu eleifend neque efficitur quis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris eleifend volutpat risus luctus facilisis. Pellentesque sollicitudin nulla a ipsum bibendum, sit amet malesuada lorem ultrices. Duis sit amet velit magna. Sed nibh massa, sollicitudin non faucibus ut, viverra vel leo. Nam vestibulum eros a ligula ultrices, nec fermentum magna pharetra.        Sed efficitur eget neque ac auctor. Nullam at placerat ipsum. Suspendisse rutrum sollicitudin ultricies. Nulla quis nibh lectus. Mauris odio elit, vehicula id nibh ut, pulvinar rhoncus neque. Proin vel nulla non odio sollicitudin semper sed vel neque. Nam nec dui a odio eleifend eleifend at ut odio. Vivamus nec bibendum mi, eu placerat lacus. Proin quis congue nibh. Nullam auctor mauris a lacus facilisis aliquam. Aenean tristique iaculis lorem et semper. Sed dignissim elit quis purus ullamcorper tincidunt. Nam pharetra sagittis odio. Phasellus sapien dui, scelerisque non vestibulum eu, posuere ut mi.',
+        "photoCover": "https://img.olhardigital.com.br/wp-content/uploads/2023/06/o-incrivel-hulk-1.png"
     },
     {
-        "id": 4,
-        "photo":"aaaa",
-        "title":"saiu novo filme",
-        "description": "ola"
+        "id": "4",
+        "title":"O que de fato aconteceu com o Capitão América?",
+        "description": 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque justo tempus volutpat bibendum. Fusce non purus nisi. Cras a purus sed urna eleifend dapibus a a nunc. Quisque in bibendum mi. Integer elementum, quam at vestibulum iaculis, arcu purus lobortis turpis, a iaculis est mauris dignissim velit. Donec vehicula sem massa, at aliquam eros eleifend ac. Curabitur lobortis consequat diam fringilla rutrum. In nec elit varius, ultrices risus sit amet, pellentesque turpis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin tincidunt eros ligula, eu eleifend neque efficitur quis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris eleifend volutpat risus luctus facilisis. Pellentesque sollicitudin nulla a ipsum bibendum, sit amet malesuada lorem ultrices. Duis sit amet velit magna. Sed nibh massa, sollicitudin non faucibus ut, viverra vel leo. Nam vestibulum eros a ligula ultrices, nec fermentum magna pharetra.        Sed efficitur eget neque ac auctor. Nullam at placerat ipsum. Suspendisse rutrum sollicitudin ultricies. Nulla quis nibh lectus. Mauris odio elit, vehicula id nibh ut, pulvinar rhoncus neque. Proin vel nulla non odio sollicitudin semper sed vel neque. Nam nec dui a odio eleifend eleifend at ut odio. Vivamus nec bibendum mi, eu placerat lacus. Proin quis congue nibh. Nullam auctor mauris a lacus facilisis aliquam. Aenean tristique iaculis lorem et semper. Sed dignissim elit quis purus ullamcorper tincidunt. Nam pharetra sagittis odio. Phasellus sapien dui, scelerisque non vestibulum eu, posuere ut mi.',
+        "photoCover": "https://cdn.ome.lt/HFtyr3u7AlBRWNb_YHN_Kl45IoU=/1200x630/smart/extras/conteudos/1_K8oOk0P.jpg"
     },
     
 ]
